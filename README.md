@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sorabbyngo-Labs/.github/main/assets/sorabbyngo-logo.jpg" alt="Sorabbyngo" width="480"/>
+  <img src="https://raw.githubusercontent.com/sorabbyngo-os/.github/main/assets/sorabbyngo-logo.jpg" alt="Sorabbyngo" width="480"/>
 </p>
 
 <p align="center">
@@ -43,11 +43,11 @@ sorabbyngo-os (kernel source)
 
 | Repo | Role |
 |---|---|
-| [sorabbyngo-os](https://github.com/sorabbyngo-Labs/sorabbyngo-os) | Kernel source |
-| [security](https://github.com/sorabbyngo-Labs/security) | 7-ring defense architecture |
-| [dmz](https://github.com/sorabbyngo-Labs/dmz) | One-way wall — PRIME isolation |
-| [byngonet](https://github.com/sorabbyngo-Labs/byngonet) | Secure mesh protocol |
-| [cml](https://github.com/sorabbyngo-Labs/cml) | Safety and audit layer |
+| [sorabbyngo-os](https://github.com/sorabbyngo-os/sorabbyngo-os) | Kernel source |
+| [security](https://github.com/citadel-sec/security) | 7-ring defense architecture |
+| [dmz](https://github.com/sorabbyngo-os/dmz) | One-way wall — PRIME isolation |
+| [byngonet](https://github.com/sorabbyngo-os/byngonet) | Secure mesh protocol |
+| [cml](https://github.com/sorabbyngo-os/cml) | Safety and audit layer |
 
 ---
 
